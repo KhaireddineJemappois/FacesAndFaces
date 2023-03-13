@@ -1,0 +1,13 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="OpenCvSharp4" Version="4.3.0.20200405" />
+    <PackageReference Include="OpenCvSharp4.Windows" Version="4.3.0.20200405" />
+  </ItemGroup>
+
+
+</Project>
